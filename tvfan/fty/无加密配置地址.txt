@@ -1,1 +1,0 @@
-clan://localhost/tvfan/fty/_fty.json
